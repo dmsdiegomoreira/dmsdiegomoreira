@@ -1,4 +1,5 @@
 <div align="center"> 
+  
   ## Oiii eu sou Diego Moreira!
   ### Estudante de Engenharia de Software
   <br>
@@ -8,4 +9,5 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=algolia"/>
   </div>
 </div>
+  
  ![Snake animation](https://github.com/dmsdiegomoreira/dmsdiegomoreira/blob/output/github-contribution-grid-snake.svg)
