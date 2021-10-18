@@ -5,7 +5,7 @@
   ### Estudante de Engenharia de Software
   <br>
   
-  <hr>
+  <hr size="40px">
   
   <div align="center">
     <a href="https://github.com/dmsdiegomoreira">
