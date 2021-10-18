@@ -1,11 +1,11 @@
 <div align="center"> 
   
   ## Oiii eu sou Diego Moreira!
-  <br>
   ### Estudante de Engenharia de Software
   <br>
   
-  <hr size="40px">
+    
+
   
   <div align="center">
     <a href="https://github.com/dmsdiegomoreira">
