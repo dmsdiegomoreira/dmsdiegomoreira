@@ -14,7 +14,7 @@
     
 ##
 
-### __SKILLS__
+__SKILLS__
 ### SKILLS
     https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg
     
