@@ -15,7 +15,7 @@
   ##
 
   ### SKILLS
-  #### SKILLS
+  #### Tecnologias que estou estudando e usando para me tornar uma desenvolvedor
     
   <br>
     
