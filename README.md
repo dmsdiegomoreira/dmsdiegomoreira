@@ -52,12 +52,12 @@
       <img src="https://img.shields.io/badge/Gmail-DD1B16?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
     <a href="https://www.instagram.com/dmsdiegomoreira" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E434AA?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-F0047F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/dmsdiegomoreira" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0076B2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.linkedin.com/in/dmsdiegomoreira" target="_blank">
+    <a href="https://dmsdiegomoreira.netlify.app" target="_blank">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
     </a>
     <a href="https://bit.ly/3AZgv4V" target="_blank">
