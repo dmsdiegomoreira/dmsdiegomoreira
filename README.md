@@ -45,7 +45,7 @@
   <br>
   
   <div align="center">  
-    <img src="<img src="https://img.icons8.com/color/48/000000/brazil.png"/>" height="30" width="30" title="Português"/>
+    <img src="<img src="https://img.icons8.com/color/48/000000/brazil.png" height="30" width="30" title="Português"/>
  </div>
     
   ##    
