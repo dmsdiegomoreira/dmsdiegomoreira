@@ -1,7 +1,7 @@
 <div align="center">  
   
   ### Oiii eu sou Diego Moreira!
-  ### Estudante de Engenharia de Software
+  #### Estudante de Engenharia de Software
   ##
   
   <br>  
@@ -12,18 +12,17 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=algolia"/>
   </div>
     
-##
+  ##
 
-**SKILLS**
-### S000KILLS
+  ### SKILLS
+  #### SKILLS
     
-    
-<br>
+  <br>
 
-##
+  ##
 
-### Contact
-### SKILLS
+  ### CONTACT
+  #### CONTACT
     
 <br>
  
