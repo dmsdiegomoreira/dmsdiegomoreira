@@ -39,15 +39,13 @@
 
   ##
     
-  ### IDIOMA
-  #### IDIOMA
+  ### IDIOMAS
     
   <br>
  
   ##    
   
-  ### CONTACT
-  #### Formas de me encontrar
+  ### CONTATO
     
   <br>
     
