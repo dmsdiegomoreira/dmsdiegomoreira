@@ -49,7 +49,7 @@
       <img src="https://img.shields.io/badge/Behance-0053EF?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
     </a>
     <a href="mailto:dms.diegomoreira@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-DD1B16?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/dmsdiegomoreira" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
