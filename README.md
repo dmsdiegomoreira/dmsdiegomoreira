@@ -1,6 +1,6 @@
 <div align="center">  
   
-  ### Oiii eu sou Diego Moreira!
+  ### Olá, DIEGO MOREIRA
   #### Estudante de Engenharia de Software
   ##
   
