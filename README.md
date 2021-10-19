@@ -38,7 +38,14 @@
   </div> 
 
   ##
-
+    
+  ### IDIOMA
+  #### IDIOMA
+    
+  <br>
+ 
+  ##    
+  
   ### CONTACT
   #### Formas de me encontrar
     
@@ -63,13 +70,6 @@
   </div>
   
   ##
-
-  ### IDIOMA
-  #### IDIOMA
-    
-  <br>
- 
-  ##    
      
   ![Snake animation](https://github.com/dmsdiegomoreira/dmsdiegomoreira/blob/output/github-contribution-grid-snake.svg)
   
