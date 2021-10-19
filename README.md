@@ -45,8 +45,8 @@
   <br>
     
   <div>
-    <a href="https://www.linkedin.com/in/dmsdiegomoreira" target="_blank">
-      <img src="https://img.shields.io/badge/Behance-0071E0?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
+    <a href="https://www.behance.net/dmsdiegomoreira" target="_blank">
+      <img src="https://img.shields.io/badge/Behance-0053EFF?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
     </a>
     <a href="mailto:dms.diegomoreira@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-DD1B16?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
