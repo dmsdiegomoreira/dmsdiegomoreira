@@ -1,7 +1,8 @@
 <div align="center">  
   
   ### Olá, eu sou DIEGO MOREIRA
-  #### Estudante de Engenharia de Software
+  #### Xxxxx Xxxxx Xxxxx
+  
   ##
   
   <br>  
