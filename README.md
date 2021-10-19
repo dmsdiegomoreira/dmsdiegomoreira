@@ -1,6 +1,6 @@
 <div align="center">  
   
-  ### Olá, eu sou DIEGO MOREIRA
+  ### Olá, eu sou o DIEGO MOREIRA
   #### Xxxxx Xxxxx Xxxxx
   
   ##
